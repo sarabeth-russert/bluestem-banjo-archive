@@ -32,7 +32,6 @@ The following 9 files were not available in the Wayback Machine archive:
 - chairs.jpg
 - page5.html
 - page6.html
-- pageArtisan.html
 
 ## Notes
 
