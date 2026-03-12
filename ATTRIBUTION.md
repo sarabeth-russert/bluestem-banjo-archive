@@ -33,4 +33,7 @@ The following 9 files were not available in the Wayback Machine archive:
 - page5.html
 - page6.html
 - pageArtisan.html
-- pageBanjo.html
+
+## Notes
+
+- `pageBanjo.html` was recovered from an August 2015 snapshot (no 2016 snapshot was available).
