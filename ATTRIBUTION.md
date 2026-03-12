@@ -30,7 +30,6 @@ The following 9 files were not available in the Wayback Machine archive:
 - BridgeSlotting1.jpg
 - BridgeVise1.jpg
 - chairs.jpg
-- page5.html
 - page6.html
 
 ## Notes
